@@ -1,6 +1,6 @@
 # Learing  React With TypeScript
 
-This project have todo app which is developed using React with type script. User can add todo and remove todo on button click
+This project have todo app which is developed using React with Typescript. User can add todo and remove todo on button click
 
 
 
